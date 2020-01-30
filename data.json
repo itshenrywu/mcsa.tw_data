@@ -2,7 +2,8 @@
   "link": [
     {
       "image": "https://i.imgur.com/XUu7QIQ.png",
-      "link": "https://mcsa.tw/card"
+      "link": "https://mcsa.tw/card",
+      "expired": "2020/02/06 23:59:59"
     },
     {
       "image": "https://i.imgur.com/wdTA8Kr.png?1",
@@ -10,7 +11,8 @@
     },
     {
       "text": "演唱會&校運會籌備組面試",
-      "link": "https://bit.ly/2Q3J4c8"
+      "link": "https://bit.ly/2Q3J4c8",
+      "expired": "2020/02/05 23:00:00"
     },
     {
       "text": "學生權益轉達單",
