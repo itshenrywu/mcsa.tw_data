@@ -1,12 +1,6 @@
 {
   "link": [
     {
-      "image": "",
-      "link": "election.mcut.tw/form.html",
-      "start": "2020/03/23 00:00:00",
-      "expired": "2020/04/13 23:59:59"
-    },
-    {
       "text": "[New] 明志科技大學學生會最新公告",
       "link": "https://mcsa.tw/news",
       "bold": true
