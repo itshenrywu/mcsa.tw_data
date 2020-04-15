@@ -1,14 +1,14 @@
 {
   "link": [
     {
-      "image": "https://i.imgur.com/5I82neZ.jpg?1",
-      "link": "http://election.mcut.tw/form",
-      "expired": "2020/04/13 23:59:59"
-    },
-    {
       "text": "[New] 明志科技大學學生會最新公告",
       "link": "https://mcsa.tw/news",
       "bold": true
+    },
+    {
+      "text": "初階器材證報名表",
+      "link": "https://mcsa.tw/0419"
+      "start": "2020/04/15 12:00:00"
     },
     {
       "text": "吸菸區意見調查表",
