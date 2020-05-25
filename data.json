@@ -6,16 +6,6 @@
       "bold": true
     },
     {
-      "text": "高階器材營報名表",
-      "link": "https://mcsa.tw/0513",
-      "expired": "2020/05/22 12:00:00"
-    },
-    {
-      "text": "第 22 屆學生會二次幹部面試",
-      "link": "https://mcsa.tw/0518",
-      "expired": "2020/05/17 23:59:59"
-    },
-    {
       "text": "學權反應管道",
       "link": "http://bit.ly/2QohJCA"
     },
@@ -25,6 +15,12 @@
     }
   ],
   "photo": [
+    {
+      "date": "3/21 ~ 22",
+      "text": "初階器材營（二）",
+      "image": "https://i.imgur.com/aGFzlIc.jpg?1",
+      "link": "https://photos.google.com/share/AF1QipN4qUJeDHowSlUdCCWXmKN0gOQIDSVNaw1l3DN-PlQWT2-uOGBV5sFtHzZyBu9mEA?key=LXhHNExkVTdrTWRjXzk5bk5Pd3dCSHRYY2VYdW5B"
+    },
     {
       "date": "3/16 ~ 19",
       "text": "學權週 & 學權社課",
